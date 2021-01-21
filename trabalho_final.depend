@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1603169635 source:d:\files\estruturas de dados\trabalho final da diciplina\trabalho_final\avl.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"avl.h"
+
+1603169672 d:\files\estruturas de dados\trabalho final da diciplina\trabalho_final\avl.h
+
+1603169639 source:d:\files\estruturas de dados\trabalho final da diciplina\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"avl.h"
+
+1606148887 source:d:\files\estruturas de dados\trabalho final da diciplina\module_1 - avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"avl.h"
+
+1605996006 d:\files\estruturas de dados\trabalho final da diciplina\module_1 - avl\avl.h
+
+1606091097 source:d:\files\estruturas de dados\trabalho final da diciplina\module_1 - avl\avl.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"avl.h"
+
